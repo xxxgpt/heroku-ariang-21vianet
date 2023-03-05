@@ -35,9 +35,6 @@
 	"buildpacks": [
 		{
 			"url": "heroku/nodejs"
-		},
-		{
-			"url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
 		}
 	]
 }
